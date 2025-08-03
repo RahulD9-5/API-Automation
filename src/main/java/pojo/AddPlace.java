@@ -6,7 +6,6 @@ public class AddPlace {
 	
 	private int accuracy;
 	private Location location;
-	
 	private String name;
 	private String phone_number;
 	private String address;
