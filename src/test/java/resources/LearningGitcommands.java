@@ -8,6 +8,7 @@ public class LearningGitcommands {
 		System.out.println("New Testing git Commands");
 		System.out.println("New Developing git Commands");
 		System.out.println("New Deploying git Commands");
+		System.out.println("New commits on 5 PM");
 	}
 
 }
